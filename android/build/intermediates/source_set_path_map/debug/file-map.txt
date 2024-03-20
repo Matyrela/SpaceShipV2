@@ -1,0 +1,7 @@
+com.rocayo.android-pngs-0 /home/matias/Escritorio/Space/android/build/generated/res/pngs/debug
+com.rocayo.android-resValues-1 /home/matias/Escritorio/Space/android/build/generated/res/resValues/debug
+com.rocayo.android-packageDebugResources-2 /home/matias/Escritorio/Space/android/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.rocayo.android-packageDebugResources-3 /home/matias/Escritorio/Space/android/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.rocayo.android-merged_res-4 /home/matias/Escritorio/Space/android/build/intermediates/merged_res/debug
+com.rocayo.android-android-5 /home/matias/Escritorio/Space/android/res
+com.rocayo.android-debug-6 /home/matias/Escritorio/Space/android/src/debug/res
